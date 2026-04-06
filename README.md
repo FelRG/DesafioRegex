@@ -1,4 +1,4 @@
-# Desafio Regex - Validação e Correção de Produtos com Regex em Python
+# Validação e Correção de Produtos com Regex em Python
 
 ## Descrição
 

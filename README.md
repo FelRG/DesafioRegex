@@ -162,5 +162,5 @@ pip install python-dateutil
 2. Execute o arquivo Python:
 
 ```bash
-python nome_do_arquivo.py
+python DesafioRegex.py
 ```
